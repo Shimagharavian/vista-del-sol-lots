@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Vista del Sol",
-  description: "Interactive lot sales website"
+  description: "Vista del Sol – Lot Sales Website"
 };
 
 export default function RootLayout({
